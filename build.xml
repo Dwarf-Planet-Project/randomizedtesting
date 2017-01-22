@@ -6,7 +6,6 @@
 	<property name="build" location="build"/>
 	<property name="junit4-ant" location="junit4-ant"/>
 	<property name="randomized-runner" location="randomized-runner"/>
-
 	<target name="init">
 		<tstamp/>
 		<mkdir dir="${build}"/>
